@@ -1,0 +1,13 @@
+{
+  "shell_port": 34309,
+  "iopub_port": 43181,
+  "stdin_port": 41157,
+  "control_port": 58801,
+  "hb_port": 41845,
+  "ip": "127.0.0.1",
+  "key": "7eda3c45-03556c0dff3cdfecc49c2d94",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Taller1/CIenciaDatosTaller1.ipynb"
+}
