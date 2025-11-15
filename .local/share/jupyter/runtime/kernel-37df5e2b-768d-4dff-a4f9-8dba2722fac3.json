@@ -1,0 +1,13 @@
+{
+  "shell_port": 56763,
+  "iopub_port": 43155,
+  "stdin_port": 51079,
+  "control_port": 47725,
+  "hb_port": 53655,
+  "ip": "127.0.0.1",
+  "key": "d538bff5-0bf31ee22b51ae86a90261c5",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Taller1/DW_visualization.ipynb"
+}
